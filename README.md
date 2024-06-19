@@ -25,7 +25,7 @@
 
 Feel free to reach out to me on:
 
-- **LinkedIn**: [linkedin.com/in/girishkeleng](https://www.linkedin.com/in/girishkeleng)
+- **LinkedIn**: [linkedin.com/in/girishkeleng](https://www.linkedin.com/in/girish-keleng-35513a213/)
 - **Email**: girishkeleng30@example.com
 
 ## 🌐 Portfolio
