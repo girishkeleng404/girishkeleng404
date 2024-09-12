@@ -13,8 +13,8 @@ I'm an indie full-stack developer building my version of the digital world one s
  
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=girishkeleng404&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=girishkeleng404&theme=radical&hide_border=true&include_all_push=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=girishkeleng404&theme=radical&hide_border=true&include_all_commits=ture&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=girishkeleng404&theme=radical&hide_border=true&include_all_push=true)<br/>
 
 
 ## 🏆 GitHub Trophies
